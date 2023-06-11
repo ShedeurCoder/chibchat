@@ -1,4 +1,4 @@
-# ChibChat
+# <em>ChibChat</em>
 <h3>v1.0.0</h3>
 <h2>Chat with your friends</h2>
 <p>Instant messaging made possible with React!</p>
